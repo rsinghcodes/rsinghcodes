@@ -2,7 +2,7 @@
 
 <img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
 
-- 🏫 I'm a 2rd year Computer Science student, and I will be graduating in May 2022 😎
+- 🏫 I'm a 2nd year Computer Science student, and I will be graduating in May 2022 😎
 
 - 🔭 I’m currently working on my Technovation project
 
