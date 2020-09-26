@@ -1,16 +1,9 @@
-### Hi there its Raghvendra Singh👋
-
-<!--
-**raghvendrasingh07/raghvendrasingh07** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Hi there, its Raghvendra Singh
 
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...Technovation Project
 - 🌱 I’m currently learning ...JavaScript
-- 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...Python
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 💬 Ask me about ...HTML and CSS
+
