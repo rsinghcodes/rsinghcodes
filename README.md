@@ -1,28 +1,35 @@
-<h2 align="center"> Hi, I'm Raghvendra 👋 </h2>
+## Hi, I'm Raghvendra 👋
 
-<img align="right" width="280" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
+I'm Front-end software developer 👩‍💻 in love with JavaScript and their frameworks/libraries.
+<br>
+<img align="right" width="46%" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif"/>
 
-- _🏫 I'm a 2nd year IT student, and I will be graduating in May 2022 😎_
+- ✈️ Open for remote work & internships.
+- :email: Shoot me an [email](mailto:raghvendrasinghh380@gmail.com) :relaxed:.
+- My portfolio is available [here](https://rsinghcodes.vercel.app).
 
-- _🔭 I have committed myself to complete 100DaysOfCode challenge._
+#### Technologies
 
-- _🌱 I’m currently learning JavaScript & Nodejs._
-
-- _📫 Let's connect on → [Instagram](https://www.instagram.com/rsinghcodes/)_
-
-## Technologies
-
-<p align="left">
 <code>
-<img height="32" width="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
-<img height="32" width="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
-<img height="32" width="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bootstrap/bootstrap.png" />
-<img height="32" width="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
- <img height="32" width="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />
-
-<br>
-<br>
-
-<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rsinghcodes&theme=cobalt&langs_count=7&hide=racket&layout=compact" />
+<img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
+<img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
+<img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bootstrap/bootstrap.png" />
+<img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
+<img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />
+<img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/redux/redux.png"/>
+<img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/npm/npm.png"/>
+<img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"/>
+<img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png"/>
+<img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png">
+<img height="25" src="https://user-images.githubusercontent.com/54095539/120929781-09063680-c708-11eb-864d-8f586ef91fec.png">
+<img height="25" src="https://user-images.githubusercontent.com/54095539/120929825-2fc46d00-c708-11eb-9009-f4610456de66.png">
+<img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/firebase/firebase.png">
+ <img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png">
 </code>
-</p>
+
+#### 📫 Let's get in touch
+
+[<img alt="Raghvendra Singh Twitter handle" src="https://img.shields.io/badge/rsinghcodes%20-%231DA1F2.svg?&style=for-the-badge&logo=Twitter&logoColor=white" >](https://twitter.com/rsinghcodes) ![](https://komarev.com/ghpvc/?username=rsinghcodes&color=0071F2&style=flat-square)
+
+<br>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rsinghcodes&theme=radical&langs_count=7&hide=racket&layout=compact" />
