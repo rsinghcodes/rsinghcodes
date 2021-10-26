@@ -57,4 +57,6 @@ Feel free to contact me about any problems you are facing. I will try to help as
 <!-- ![](https://komarev.com/ghpvc/?username=rsinghcodes&color=0071F2&style=flat-square) -->
 
 <br>
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=rsinghcodes&show_icons=true" alt="rsinghcodes" /><br>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rsinghcodes&theme=radical&langs_count=7&hide=racket&layout=compact" />
+
