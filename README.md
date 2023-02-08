@@ -2,15 +2,14 @@
 
 ![](https://komarev.com/ghpvc/?username=rsinghcodes&color=0071F2&style=flat-square)
 
-I build things for the web. I am a _**Frontend developer**_ and _**Open Source contributor**_, on the way to become a _**Full-stack developer**_ specializing in JavaScript, React & NodeJS based technologies.
+I build things for the web. I am a _**Full Stack developer**_ and _**Open Source contributor**_.
 <br>
 <img align="right" width="46%" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif"/>
 
-- ✈️ **Open for remote work & internships.**
 - 💬 Ask me about Python, JavaScript, React, TypeScript, Open Source, Web and App development.
-- 👯 I’d love to collaborate on any interesting idea or project.
 - 🌱 I’m currently learning **Data Structures and Algorithms**.
-- 😄 **Pronouns:** He/His/Bro
+- :dancing_men: I’d love to collaborate on any interesting idea or project.
+- ✈️ **Open for full-time remote work & freelancing.**
 - ⚡ **Fun fact:** 7% of American adults believe that chocolate milk comes from brown cows.
 
 ## 🛠 &nbsp;Tech Stack
@@ -34,17 +33,20 @@ I build things for the web. I am a _**Frontend developer**_ and _**Open Source c
   
 - 🎨 &nbsp;
   ![Tailwind CSS](https://img.shields.io/badge/-TailwindCSS-333333?style=flat-square&logo=tailwindcss)
-  ![Material UI](https://img.shields.io/badge/-MaterialUI-333333?style=flat-square&logo=mui)
+  ![MUI](https://img.shields.io/badge/-MUI-333333?style=flat-square&logo=mui)
   ![ChakraUI](https://img.shields.io/badge/-ChakraUI-333333?style=flat-square&logo=chakraui)
   
 - ⚙️ &nbsp;
   ![Node.js](https://img.shields.io/badge/-Node.js-333333?style=flat-square&logo=node.js)
   ![Express](https://img.shields.io/badge/-Express-333333?style=flat-square&logo=express)
   ![GraphQL](https://img.shields.io/badge/-GraphQL-333333?style=flat-square&logo=graphql)
+  ![NestJS](https://img.shields.io/badge/-NestJS-333333?style=flat-square&logo=nestjs)
+  ![Docker](https://img.shields.io/badge/-Docker-333333?style=flat-square&logo=docker)
   
 - 🛢 &nbsp;
   ![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat-square&logo=mysql)
   ![MongoDB](https://img.shields.io/badge/-MongoDB-333333?style=flat-square&logo=mongodb)
+  ![Prisma](https://img.shields.io/badge/-Prisma-333333?style=flat-square&logo=prisma)
   
 - 🔧 &nbsp;
   ![GitHub](https://img.shields.io/badge/-GitHub-black?style=flat-square&logo=github)
@@ -63,5 +65,7 @@ Feel free to contact me 😉 if you have any opportunities or any doubts.
 <p>
 <img width="49%" src="https://github-readme-stats.vercel.app/api?username=rsinghcodes&count_private=true&theme=radical&show_icons=true" />
 <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rsinghcodes&theme=radical&langs_count=7&hide=racket&layout=compact" />
+
+<!-- Current Streak -->
 <!-- <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=rsinghcodes&theme=nightowl&hide_border=true&fire=DD2727" alt="rsinghcodes" /> -->
 </p>
