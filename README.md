@@ -62,10 +62,10 @@ Feel free to contact me 😉 if you have any opportunities or any doubts.
 [![Mail Badge](https://img.shields.io/badge/email-here-EA4335?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:raghvendrrsingh@gmail.com)](mailto:raghvendrrsingh@gmail.com)
 [![Twitter](https://img.shields.io/badge/twitter%20-%231DA1F2.svg?&style=for-the-badge&logo=Twitter&logoColor=white)](https://twitter.com/raghvendrrsingh)
 
-<p>
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=rsinghcodes&count_private=true&theme=radical&show_icons=true" />
+<div>
+<!-- <img width="49%" src="https://github-readme-stats.vercel.app/api?username=rsinghcodes&count_private=true&theme=radical&show_icons=true" /> -->
 <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rsinghcodes&theme=radical&langs_count=7&hide=racket&layout=compact" />
 
 <!-- Current Streak -->
 <!-- <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=rsinghcodes&theme=nightowl&hide_border=true&fire=DD2727" alt="rsinghcodes" /> -->
-</p>
+</div>
