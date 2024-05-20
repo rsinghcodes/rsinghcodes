@@ -2,17 +2,19 @@
 
 ![](https://komarev.com/ghpvc/?username=rsinghcodes&color=0071F2&style=flat-square)
 
+Building innovative solutions with passion for clean code and efficiency.
+
 I build things for the web. I am a _**Full Stack developer**_ and _**Open Source contributor**_.
-<br>
-<img align="right" width="46%" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif"/>
 
 - 💬 Ask me about Python, JavaScript, React, TypeScript, Open Source, Web and App development.
-- 🌱 I’m currently learning **Data Structures and Algorithms**.
-- :dancing_men: I’d love to collaborate on any interesting idea or project.
-- ✈️ **Open for full-time remote work & freelancing.**
-- ⚡ **Fun fact:** 7% of American adults believe that chocolate milk comes from brown cows.
+- 🌱 Currently expanding my knowledge in **Data Structures and Algorithms** to tackle complex problems.
+- :dancing_men: Looking for opportunities to work on interesting projects and collaborate with talented individuals.
+- ✈️ **Open for full-time work & Freelancing Projects.**
+- ⚡ **Fun Fact:** Did you know that Python is named after Monty Python's Flying Circus, not a giant snake?
 
 ## 🛠 &nbsp;Tech Stack
+
+<img align="right" width="46%" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif"/>
 
 - 💻 &nbsp;
   ![Python](https://img.shields.io/badge/-Python-333333?style=flat-square&logo=python)
@@ -60,7 +62,7 @@ I build things for the web. I am a _**Full Stack developer**_ and _**Open Source
 Feel free to contact me 😉 if you have any opportunities or any doubts.
 
 [![Mail Badge](https://img.shields.io/badge/email-here-EA4335?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:raghvendrrsingh@gmail.com)](mailto:raghvendrrsingh@gmail.com)
-[![Twitter](https://img.shields.io/badge/twitter%20-%231DA1F2.svg?&style=for-the-badge&logo=Twitter&logoColor=white)](https://twitter.com/raghvendrrsingh)
+[![Twitter](https://img.shields.io/badge/twitter%20-%231DA1F2.svg?&style=for-the-badge&logo=Twitter&logoColor=white)](https://twitter.com/@RaghvendrrSingh)
 
 <div>
 <!-- <img width="49%" src="https://github-readme-stats.vercel.app/api?username=rsinghcodes&count_private=true&theme=radical&show_icons=true" /> -->
